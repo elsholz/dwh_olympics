@@ -1,3 +1,7 @@
+data/Constant_2017_PPP_per_capita.csv
+data/Million_constant_2017_PPP.csv
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
